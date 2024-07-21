@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9591678-fe03-445b-a24e-b3d34ef005a3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/book-network-ui/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/book-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/book.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/book-card/book-card.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/book-card/book-card.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/book-card/book-card.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/book-card/book-card.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/menu/menu.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/menu/menu.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/menu/menu.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/menu/menu.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/rating/rating.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/rating/rating.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/rating/rating.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/rating/rating.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-details/book-details.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-details/book-details.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-details/book-details.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-details/book-details.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-list/book-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-list/book-list.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-list/book-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-list/book-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/borrowed-book-list/borrowed-book-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/borrowed-book-list/borrowed-book-list.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/borrowed-book-list/borrowed-book-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/borrowed-book-list/borrowed-book-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/main/main.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/main/main.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/main/main.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/main/main.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/manage-book/manage-book.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/manage-book/manage-book.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/manage-book/manage-book.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/manage-book/manage-book.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/my-books/my-books.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/my-books/my-books.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/my-books/my-books.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/my-books/my-books.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/returned-books/returned-books.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/returned-books/returned-books.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/returned-books/returned-books.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/returned-books/returned-books.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/activate-account/activate-account.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/activate-account/activate-account.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/activate-account/activate-account.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/activate-account/activate-account.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/login/login.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/login/login.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/register/register.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/register/register.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/register/register.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/register/register.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/api-configuration.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/api.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/base-service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/authentication/authenticate.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/authentication/confirm.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/authentication/register.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/approve-return-borrow-book.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/borrow-book.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/find-all-books-by-owner.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/find-all-books.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/find-all-borrowed-books.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/find-all-returned-books.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/find-book-by-id.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/return-borrow-book.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/save-book.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/update-archived-status.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/update-shareable-status.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/book/upload-book-cover-picture.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/feedback-controller/find-all-feedbacks-by-book.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/feedback-controller/save-feedback.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/feedback/find-all-feedbacks-by-book.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/fn/feedback/save-feedback.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/guard/auth.guard.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/guard/auth.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/interceptor/http-token.interceptor.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/interceptor/http-token.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models/authentication-request.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models/authentication-response.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models/book-request.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models/book-response.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models/borrowed-book-response.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models/feedback-request.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models/feedback-response.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models/page-response-book-response.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models/page-response-borrowed-book-response.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models/page-response-feedback-response.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/models/registration-request.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/request-builder.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/services.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/services/authentication.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/services/book.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/services/feedback.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/strict-http-response.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/token/token.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/services/token/token.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/openapi/openapi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2jNlgA2OYjqn5aUdMVJegqUVfDG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/library-management/library-management/src/main/resources/templates"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\library-management\library-management\src\main\resources\templates" />
+      <recent name="C:\library-management" />
+      <recent name="C:\library-management\library-management\src\main\java\com\library\library_management" />
+      <recent name="C:\library-management\library-management\src\main\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9591678-fe03-445b-a24e-b3d34ef005a3" name="Changes" comment="" />
+      <created>1721235523461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721235523461</updated>
+    </task>
+    <servers />
+  </component>
+</project>
